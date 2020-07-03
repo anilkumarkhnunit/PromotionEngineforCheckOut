@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\a293617\\source\\repos\\PromotionEngineforCheckOut\\PromotionEngineforCheckOut\\PromotionEngineforCheckOut.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\a293617\\source\\repos\\PromotionEngineforCheckOut\\PromotionEngineforCheckOut\\PromotionEngineforCheckOut.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a293617\\source\\repos\\PromotionEngineforCheckOut\\PromotionEngineforCheckOut\\PromotionEngineforCheckOut.csproj",
+        "projectName": "PromotionEngineforCheckOut",
+        "projectPath": "C:\\Users\\a293617\\source\\repos\\PromotionEngineforCheckOut\\PromotionEngineforCheckOut\\PromotionEngineforCheckOut.csproj",
+        "packagesPath": "C:\\Users\\a293617\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a293617\\source\\repos\\PromotionEngineforCheckOut\\PromotionEngineforCheckOut\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a293617\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexus.it.volvo.net/repository/nuget-drs-ms": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\a293617\source\repos\PromotionEngineforCheckOut\PromotionEngineforCheckOut\bin\Debug\netcoreapp2.2\PromotionEngineforCheckOut.deps.json
+C:\Users\a293617\source\repos\PromotionEngineforCheckOut\PromotionEngineforCheckOut\bin\Debug\netcoreapp2.2\PromotionEngineforCheckOut.runtimeconfig.json
+C:\Users\a293617\source\repos\PromotionEngineforCheckOut\PromotionEngineforCheckOut\bin\Debug\netcoreapp2.2\PromotionEngineforCheckOut.runtimeconfig.dev.json
+C:\Users\a293617\source\repos\PromotionEngineforCheckOut\PromotionEngineforCheckOut\bin\Debug\netcoreapp2.2\PromotionEngineforCheckOut.dll
+C:\Users\a293617\source\repos\PromotionEngineforCheckOut\PromotionEngineforCheckOut\bin\Debug\netcoreapp2.2\PromotionEngineforCheckOut.pdb
+C:\Users\a293617\source\repos\PromotionEngineforCheckOut\PromotionEngineforCheckOut\obj\Debug\netcoreapp2.2\PromotionEngineforCheckOut.csproj.CoreCompileInputs.cache
+C:\Users\a293617\source\repos\PromotionEngineforCheckOut\PromotionEngineforCheckOut\obj\Debug\netcoreapp2.2\PromotionEngineforCheckOut.AssemblyInfoInputs.cache
+C:\Users\a293617\source\repos\PromotionEngineforCheckOut\PromotionEngineforCheckOut\obj\Debug\netcoreapp2.2\PromotionEngineforCheckOut.AssemblyInfo.cs
+C:\Users\a293617\source\repos\PromotionEngineforCheckOut\PromotionEngineforCheckOut\obj\Debug\netcoreapp2.2\PromotionEngineforCheckOut.dll
+C:\Users\a293617\source\repos\PromotionEngineforCheckOut\PromotionEngineforCheckOut\obj\Debug\netcoreapp2.2\PromotionEngineforCheckOut.pdb
